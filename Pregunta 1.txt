@@ -1,0 +1,5 @@
+ Verdadero y Falso 
+La encapsulación en Python se aplica de forma estricta, haciendo imposible acceder a los atributos privados desde fuera de la clase.Falso
+Los métodos abstractos en Python son métodos declarados en una superclase que no poseen implementación, obligando a las subclases a sobreescribirlos.verdadero
+La herencia permite a las subclases en Python sobreescribir métodos definidos en sus clases padre para proporcionar implementaciones específicas.verdadero
+Usar doble guión bajo (__) al inicio del nombre de un atributo en Python provoca "name mangling" (modificación del nombre), haciendo más difícil (pero no imposible) acceder al atributo desde fuera de su clase.verdadero
