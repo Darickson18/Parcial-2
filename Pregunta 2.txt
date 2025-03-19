@@ -1,0 +1,16 @@
+ Selección simple 
+¿Cuál símbolo en UML representa una relación de composición?
+Línea discontinua con flecha abierta.
+Línea continua con un rombo negro en un extremo.respuesta correcta
+Línea continua con un rombo blanco en un extremo.
+Línea continua sin flecha.
+¿Cuál de las siguientes opciones describe correctamente una asociación en UML?
+Relación que expresa que una clase es parte de otra.
+ Relación que indica que una clase depende temporalmente de otra. 
+Línea continua simple que conecta dos clases indicando una relación estructural.Respuesta Correcta
+Relación que muestra que una clase hereda propiedades de otra clase.
+¿Cuál es el significado del símbolo # delante de un atributo o método en un diagrama UML?
+Público
+Privado
+Protegido.respuesta correcta
+Estático
